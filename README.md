@@ -1,4 +1,4 @@
-# workout-buddy
+# Workout Buddy
 
 ### Introduction
 
